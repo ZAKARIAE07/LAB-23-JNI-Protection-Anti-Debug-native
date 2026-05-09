@@ -38,4 +38,4 @@ L'application suit un flux strict :
 *   Un appareil Android (physique de préférence pour tester l'absence de debug).
 
 ---
-*Note : Ce projet est réalisé dans un but pédagogique pour démontrer les concepts de sécurité Android.*
+
